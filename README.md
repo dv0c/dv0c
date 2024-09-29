@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Multi Tenancy app<br>🌱 I’m currently learning Next JS <br>💬 Ask me about anything<br>⚡ Fun fact I'm 18 and i have 5 years of experience on web development
+🔭 I’m currently working on Multi Tenancy app <br>💬 Ask me about anything<br>⚡ Fun fact I'm 18 and i have 5 years of experience on web development
 
 
 ## 🌐 Socials:
